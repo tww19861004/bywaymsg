@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System.Text;
 
-namespace JobWanted
+namespace bywaymsg
 {
     public class Startup
     {

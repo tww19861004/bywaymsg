@@ -1,0 +1,11 @@
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\bin\Debug\netcoreapp2.0\JobWanted.deps.json
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\bin\Debug\netcoreapp2.0\JobWanted.runtimeconfig.json
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\bin\Debug\netcoreapp2.0\JobWanted.runtimeconfig.dev.json
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\bin\Debug\netcoreapp2.0\JobWanted.dll
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\bin\Debug\netcoreapp2.0\JobWanted.pdb
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\obj\Debug\netcoreapp2.0\JobWanted.csprojResolveAssemblyReference.cache
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\obj\Debug\netcoreapp2.0\JobWanted.csproj.CoreCompileInputs.cache
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\obj\Debug\netcoreapp2.0\JobWanted.AssemblyInfoInputs.cache
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\obj\Debug\netcoreapp2.0\JobWanted.AssemblyInfo.cs
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\obj\Debug\netcoreapp2.0\JobWanted.dll
+D:\MyConfiguration\tww24098\Downloads\-Asp.net-Core2-AngleSharp-master\JobWanted\obj\Debug\netcoreapp2.0\JobWanted.pdb

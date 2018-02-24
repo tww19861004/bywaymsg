@@ -1,0 +1,10 @@
+D:\Project\Demo\2018\bywaymsg\bywaymsg\bin\Debug\netcoreapp2.0\bywaymsg.deps.json
+D:\Project\Demo\2018\bywaymsg\bywaymsg\bin\Debug\netcoreapp2.0\bywaymsg.runtimeconfig.json
+D:\Project\Demo\2018\bywaymsg\bywaymsg\bin\Debug\netcoreapp2.0\bywaymsg.runtimeconfig.dev.json
+D:\Project\Demo\2018\bywaymsg\bywaymsg\bin\Debug\netcoreapp2.0\bywaymsg.dll
+D:\Project\Demo\2018\bywaymsg\bywaymsg\bin\Debug\netcoreapp2.0\bywaymsg.pdb
+D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.csproj.CoreCompileInputs.cache
+D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.AssemblyInfoInputs.cache
+D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.AssemblyInfo.cs
+D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.dll
+D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.pdb

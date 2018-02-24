@@ -18,7 +18,7 @@ using Newtonsoft.Json;
  2、System.Text.Encoding.CodePages 【Encoding.GetEncoding("GBK")编码提供程序】
 */
 
-namespace JobWanted.Controllers
+namespace bywaymsg.Controllers
 {
     [Route("api/[controller]/[action]")]
     public class JobsController : Controller
