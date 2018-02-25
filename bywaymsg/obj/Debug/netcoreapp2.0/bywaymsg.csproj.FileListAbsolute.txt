@@ -8,3 +8,4 @@ D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.Assembly
 D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.AssemblyInfo.cs
 D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.dll
 D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.pdb
+D:\Project\Demo\2018\bywaymsg\bywaymsg\obj\Debug\netcoreapp2.0\bywaymsg.csprojResolveAssemblyReference.cache
