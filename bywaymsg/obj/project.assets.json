@@ -9280,11 +9280,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Project\\Demo\\2018\\bywaymsg\\bywaymsg\\bywaymsg.csproj",
+      "projectUniqueName": "D:\\Project\\Demo\\2018\\pachou\\bywaymsg\\bywaymsg\\bywaymsg.csproj",
       "projectName": "bywaymsg",
-      "projectPath": "D:\\Project\\Demo\\2018\\bywaymsg\\bywaymsg\\bywaymsg.csproj",
+      "projectPath": "D:\\Project\\Demo\\2018\\pachou\\bywaymsg\\bywaymsg\\bywaymsg.csproj",
       "packagesPath": "D:\\MyConfiguration\\tww24098\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Demo\\2018\\bywaymsg\\bywaymsg\\obj\\",
+      "outputPath": "D:\\Project\\Demo\\2018\\pachou\\bywaymsg\\bywaymsg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
